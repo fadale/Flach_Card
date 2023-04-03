@@ -1,0 +1,26 @@
+[
+  {
+    "model": "cards.card",
+    "fields": {
+      "question": "Hello",
+      "answer": "Answer Hello",
+      "box": 1
+    }
+  },
+  {
+    "model": "cards.card",
+    "fields": {
+      "question": "Please",
+      "answer": "Answer Please",
+      "box": 1
+    }
+  },
+  {
+    "model": "cards.card",
+    "fields": {
+      "question": "Sorry",
+      "answer": "Answer Sorry",
+      "box": 1
+    }
+  }
+]
